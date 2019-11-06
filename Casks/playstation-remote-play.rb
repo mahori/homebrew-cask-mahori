@@ -1,6 +1,6 @@
 cask 'playstation-remote-play' do
-  version '2.8.0'
-  sha256 'fc99622738fa08a3560fe20df651ea513aa67506bdbfacd912c49858204b95aa'
+  version '3.0.0'
+  sha256 '8e77323c7de1d556c60938fcffe172ce1d4761b94c46f08404e68052c0141931'
 
   url 'https://remoteplay.dl.playstation.net/remoteplay/module/mac/RemotePlayInstaller.pkg'
   name 'PS4 Remote Play'
