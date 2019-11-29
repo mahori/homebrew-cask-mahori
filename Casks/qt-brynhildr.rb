@@ -1,6 +1,6 @@
 cask 'qt-brynhildr' do
-  version '2024'
-  sha256 'bba3bf216f5e2e11da9e935ff8d63594a313f0f6ea248ee1956d25663208aac5'
+  version '2025'
+  sha256 '769535aa8d067c012aca1dc6a857b6936bf206f1f1b3fb61200ef8cc3bd3ae49'
 
   url "https://github.com/funfun-dc5/qtbrynhildr/releases/download/v#{version}/QtBrynhildr-macosx_x64-v#{version}.dmg"
   appcast 'https://github.com/funfun-dc5/qtbrynhildr/releases.atom'
