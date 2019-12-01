@@ -7,5 +7,5 @@ cask 'qt-brynhildr' do
   name 'Qt Brynhildr'
   homepage 'https://github.com/funfun-dc5/qtbrynhildr'
 
-  app 'QtBrynhildr.app'
+  app 'Qt Brynhildr.app'
 end
